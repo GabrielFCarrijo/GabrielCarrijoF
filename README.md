@@ -1,6 +1,6 @@
 ### Hello World 👾
 
-- 🔭 Atualmente trabalhando como desenvolvedor Java =)
+- 🔭 Atualmente trabalhando como desenvolvedor Java =) na LuizaLabs
 - 🌱 Estudando Spring, Junit, Mockito 
 - ⚡ Adoro cozinhar 🍽
 
