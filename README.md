@@ -1,7 +1,7 @@
 ### Hello World 👾
 
 - 🔭 Atualmente trabalhando como desenvolvedor Java na LuizaLabs
-- 🌱 Estudando Java, GO, Java Script, SQL, MySQL 
+- 🌱 Estudando Java
 - ⚡ Adoro cozinhar 🍽
 
 
