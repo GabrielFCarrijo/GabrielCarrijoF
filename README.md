@@ -7,9 +7,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/GabrielCarrijoF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCarrijoF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCarrijoF&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/GabrielFCarrijo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFCarrijo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFCarrijo&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
   ##
