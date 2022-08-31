@@ -1,6 +1,6 @@
 ### Hello World 👾
 
-- 🔭 Atualmente trabalhando como desenvolvedor Java na LuizaLabs
+- 🔭 Atualmente trabalhando como desenvolvedor Java JR na Perinity
 - 🌱 Estudando Java
 - ⚡ Adoro cozinhar 🍽
 
