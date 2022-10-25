@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalhando como desenvolvedor Java JR na Perinity
 - 🌱 Estudando Java
-- ⚡ Adoro cozinhar 🍽
+- ⚡ Adoro cozinhar Física 
 
 
 
