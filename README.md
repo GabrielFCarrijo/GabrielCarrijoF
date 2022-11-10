@@ -22,6 +22,8 @@
   <img align="center" alt="Gabriel_CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img align="center" alt="Gabriel_CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
   <img align="center" alt="Gabriel_CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="center" alt="Gabriel_CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
    
 </div>
   
