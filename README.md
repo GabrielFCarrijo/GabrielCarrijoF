@@ -1,7 +1,7 @@
 ### Hello World 👾
 
 - 🔭 Atualmente trabalhando como desenvolvedor Java JR na Perinity
-- 🌱 Estudando Java && Spring 
+- 🌱 Estudando Java && Spring  && JUnit
 - ⚡ Adoro ler sobre Física && Astrologia
 
 
