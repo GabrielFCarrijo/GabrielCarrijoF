@@ -1,10 +1,7 @@
 ### Hello World 👾
 
-- 🔭 Atualmente trabalhando como desenvolvedor Java JR na Perinity
-- 🌱 Estudando Java && Spring  && JUnit
+- 🔭 Atualmente trabalhando como desenvolvedor Java Pleno na Perinity
 - ⚡ Adoro ler sobre Física && Astronomia
-
-
 
 <div align="center">
   <a href="https://github.com/GabrielFCarrijo">
