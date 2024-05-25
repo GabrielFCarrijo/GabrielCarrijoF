@@ -1,6 +1,6 @@
 ### Hello World 👾
 
-- 🔭 Atualmente trabalhando como desenvolvedor Java Pleno na Perinity
+- 🔭 Atualmente trabalhando como desenvolvedor Java na Perinity
 - ⚡ Adoro ler sobre Física && Astronomia
 
 <div align="center">
