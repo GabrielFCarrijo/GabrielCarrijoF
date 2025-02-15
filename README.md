@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👾, I'm Gabriel Carrijo</h1>
 <h3 align="center">I'm am java backend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murilofelpeto" alt="murilofelpeto" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GabrielFCarrijo" alt="GabrielFCarrijo" /></a> </p>
 
 - 🌱 I’m currently learning **Quarkus** **Kafka** **Jenkins** 
 
